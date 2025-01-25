@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Img/Home.png</file>
+        <file>Img/History.png</file>
+        <file>Img/UpArrow.png</file>
+        <file>Img/DownArrow.png</file>
+        <file>Img/RightArrow.png</file>
+        <file>Img/LeftArrow.png</file>
+    </qresource>
+</RCC>
